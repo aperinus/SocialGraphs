@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "Truffaut_(film)", "to": "Truffaut (film)"}], "pages": {"-1": {"ns": 0, "title": "Truffaut (film)", "missing": ""}}}}

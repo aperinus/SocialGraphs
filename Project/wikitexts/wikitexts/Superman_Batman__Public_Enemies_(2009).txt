@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "Batman:_Public_Enemies", "to": "Batman: Public Enemies"}], "pages": {"-1": {"ns": 0, "title": "Batman: Public Enemies", "missing": ""}}}}
